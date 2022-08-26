@@ -1,5 +1,5 @@
 - Olá, Sou Yure Rafael, Aspirante e Apaixonado por Natureza em TI,
-- Estou Interessado em HTML5, CSS3, JavaScript, React...
+-Habilidades em HTML5, CSS3 e JavaScript
 - Estou Cursando  Segundo Período de Engenharia da Computação na Universidade Salvador (UNIFACS)
 
 
